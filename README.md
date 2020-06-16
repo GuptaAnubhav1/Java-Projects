@@ -1,5 +1,5 @@
 # Java-Projects
-# 1 Media Player
+# 1. Media Player
 ## Using Javafx a simple media player is built 
 * IT only support mp4 format and is capable of running 4K videos as well
 * JavaFX can be installed from here https://gluonhq.com/products/javafx/
